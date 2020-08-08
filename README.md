@@ -1,2 +1,2 @@
-# mosff-protokol-setunkuncevo-byrevestnik.ru
+# mosff-protokol-setunkuncevo-byrevestnik
 Мой хостинг
